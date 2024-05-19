@@ -1,4 +1,3 @@
-# Task-Assignment
 We will be dealing with the MIMIC-IV FHIR dataset for the purpose of this assignment.
 
 The individual files in the dataset are FHIR resources. Resources are nothing but objects of importance in a hospital system.
